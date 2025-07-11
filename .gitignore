@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+*.pkl
+
+# Next.js extra (if not already ignored in subfolder)
+heart-disease-predictor/node_modules/
+heart-disease-predictor/.next/
